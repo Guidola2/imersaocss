@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://www.popsci.com/resizer/VG6cIXRfztqHLBrtbEyE-BqjfLg=/760x428/filters:focal(640x360:641x361)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/WCRP3QOCAF3BLXT7QG3CFQGGBM.jpg');
+    background-size: auto 100vh;
+  }
+  
+  .menu {
+    font-size: 110%;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: navy;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: DARKSLATEGRAY;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
